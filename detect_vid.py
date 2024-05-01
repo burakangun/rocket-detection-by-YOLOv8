@@ -26,7 +26,7 @@ while True:
     #capture frame-by-frame
     ret, frame = cap.read()       
     #if frame is read correctly ret will be true
-
+ 
     if not ret:
         print("Can't receive frame")
         break

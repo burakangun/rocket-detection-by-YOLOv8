@@ -1,8 +1,8 @@
-﻿# rocket-detection-by-YOLO
-![Ekran Görüntüsü (52)](https://github.com/burakangun/rocket-detection-by-YOLOv8/assets/96389414/8c41664f-abf0-4efa-ac18-f6e406cd1917)
-
-
 # rocket-detection-by-YOLOv8.
+
+![Ekran Görüntüsü (52)](https://github.com/burakangun/rocket-detection-by-YOLOv8/assets/96389414/8cd3fe2f-cf85-4de5-b8a5-8f7f34c2b4ca)
+
+
 
 Model Training
 I trained the model for 10 epochs and plan to further improve it with 30 epochs soon. Due to training it for 10 epochs the model doesn't have high accuracy.

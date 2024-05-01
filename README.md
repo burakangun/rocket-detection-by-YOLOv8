@@ -4,9 +4,9 @@
 
 
 
-Model Training
+# Model Training
 I trained the model for 10 epochs and plan to further improve it with 30 epochs soon. Due to training it for 10 epochs the model doesn't have high accuracy.
 
-Testing the Model
+# Testing the Model
 Those reviewing my project can test the model with different videos from the 'vids' directory. They can also adjust the 'conf' parameter as they wish.
 

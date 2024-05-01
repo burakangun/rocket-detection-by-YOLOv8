@@ -15,7 +15,7 @@ model = YOLO('runs/detect/train4/weights/best.pt', 'v8')
 model.to(device=device)
 
 # loading the video
-cap = cv.VideoCapture('rocket_vid3.mp4') #You can change the vid if you want. Moreover, you can test the model by other videos you find in the youtube.
+cap = cv.VideoCapture('vids/rocket_vid3.mp4') #You can change the vid if you want. Moreover, you can test the model by other videos you find in the youtube.
 
 # check if the cap is not opened
 if not cap.isOpened():
